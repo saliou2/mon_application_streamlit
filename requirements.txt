@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 beautifulsoup4
 requests
+=======
+streamlit
+beautifulsoup4
+requests
+>>>>>>> a00217543c0b085aa045e9271013cace99c1c17c
 pandas
